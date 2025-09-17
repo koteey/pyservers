@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pyserverses",
-    version="0.1.0",
+    version="0.1.2",
     author="kote",
     author_email="arturzavalov64@gmail.com",
     description="Простая библиотека для создания серверов и клиентов",
