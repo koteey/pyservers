@@ -1,0 +1,6 @@
+README.md
+setup.py
+pyservers.egg-info/PKG-INFO
+pyservers.egg-info/SOURCES.txt
+pyservers.egg-info/dependency_links.txt
+pyservers.egg-info/top_level.txt
